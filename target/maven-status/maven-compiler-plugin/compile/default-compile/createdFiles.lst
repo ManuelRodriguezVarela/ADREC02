@@ -1,0 +1,12 @@
+gal/san/clemente/recuperacion_unids_01_02/controller/Controller.class
+gal/san/clemente/recuperacion_unids_01_02/entity/Config.class
+gal/san/clemente/recuperacion_unids_01_02/Principal.class
+gal/san/clemente/recuperacion_unids_01_02/entity/Informe.class
+gal/san/clemente/recuperacion_unids_01_02/entity/Coronavirus.class
+gal/san/clemente/recuperacion_unids_01_02/utils/XMLUtils.class
+gal/san/clemente/recuperacion_unids_01_02/exception/ProjectException.class
+gal/san/clemente/recuperacion_unids_01_02/utils/JSONUtils.class
+gal/san/clemente/recuperacion_unids_01_02/utils/FileUtils.class
+gal/san/clemente/recuperacion_unids_01_02/entity/handler/RecordHandler.class
+gal/san/clemente/recuperacion_unids_01_02/entity/Record.class
+gal/san/clemente/recuperacion_unids_01_02/entity/Continente.class
